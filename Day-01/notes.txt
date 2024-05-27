@@ -1,1 +1,18 @@
-hello
+
+* CDN & why do we use ?
+
+* development.js VS production.js (React CDN links)
+
+* crossorigin ?
+
+* JSX ?
+
+* library VS framework ?
+
+
+
+Notes:
+1. Order of script tag matter
+2. root.render() will replace the content of root-element(<div id="root">)
+3. Anything sibling to <div id="root"> remains the the same.
+4. React is a library which can be applied to a small portion of a website.
