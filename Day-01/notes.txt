@@ -9,6 +9,7 @@
 
 * library VS framework ?
 
+* added random text
 
 
 Notes:
